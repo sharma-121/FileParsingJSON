@@ -1,0 +1,45 @@
+{
+  "count": 2,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "74ac9b50-f88a-4f02-93e3-f21d295790cc",
+      "address": {
+        "id": "6bf6e52b-e9bb-41ee-a5ae-2b0573c1ad86",
+        "street": "123",
+        "city": "nc",
+        "state": "nc",
+        "zip": "12345",
+        "country": "us",
+        "long": 23.334,
+        "lat": -23.2222      },
+      "name": "ddd",
+      "pharmacy": {
+        "id": "06810104-9ceb-4552-aa90-2f27a479ebb2",
+        "name": "ss",
+        "address": "6bf6e52b-e9bb-41ee-a5ae-2b0573c1ad86",
+        "owner": "ecfc6ee8-e7a9-40f2-8802-2e31bb5c7afd",
+        "status": true      },
+      "status": "Active"    },
+    {
+      "id": "8a324b51-cb16-44f2-8f98-6babdfecd79a",
+      "address": {
+        "id": "6bf6e52b-e9bb-41ee-a5ae-2b0573c1ad86",
+        "street": "123",
+        "city": "nc",
+        "state": "nc",
+        "zip": "12345",
+        "country": "us",
+        "long": 23.334,
+        "lat": -23.2222      },
+      "name": "sastring",
+      "pharmacy": {
+        "id": "920c3cad-d1c3-4da2-bfb6-b70ec33b3916",
+        "name": "vbn",
+        "address": "6bf6e52b-e9bb-41ee-a5ae-2b0573c1ad86",
+        "owner": "ecfc6ee8-e7a9-40f2-8802-2e31bb5c7afd",
+        "status": true      },
+      "status": "Active"    }
+  ]
+}
